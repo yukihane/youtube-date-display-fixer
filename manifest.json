@@ -2,5 +2,10 @@
   "name": "YouTube update date display fixer",
   "description": "Fix YouTube update date display",
   "version": "0.1",
-  "manifest_version": 3
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "js/background.js"
+  },
+  "permissions": ["storage", "declarativeContent", "activeTab", "scripting"],
+  "host_permissions": ["https://www.youtube.com/*"]
 }
