@@ -3,6 +3,9 @@
   "description": "Fix YouTube date display",
   "version": "1.0.0",
   "manifest_version": 3,
+  "icons": {
+    "128": "icon/icon128.png"
+  },
   "background": {
     "service_worker": "js/background.js"
   },
