@@ -1,0 +1,3 @@
+## YouTube date display fixer
+
+Priority is given to update date over view counter.
