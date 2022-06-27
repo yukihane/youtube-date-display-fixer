@@ -1,5 +1,3 @@
-console.log("replace.js executed");
-
 const replace = () => {
   const date = document.querySelector(
     "#info-strings.ytd-video-primary-info-renderer"
