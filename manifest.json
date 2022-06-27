@@ -1,6 +1,6 @@
 {
-  "name": "YouTube update date display fixer",
-  "description": "Fix YouTube update date display",
+  "name": "YouTube date display fixer",
+  "description": "Fix YouTube date display",
   "version": "1.0.0",
   "manifest_version": 3,
   "background": {
