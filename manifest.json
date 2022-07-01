@@ -11,6 +11,6 @@
   "background": {
     "service_worker": "js/background.js"
   },
-  "permissions": ["activeTab", "scripting"],
+  "permissions": ["scripting"],
   "host_permissions": ["https://www.youtube.com/*"]
 }
